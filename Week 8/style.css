@@ -1,0 +1,24 @@
+body {
+	background: url(ghost.gif);
+
+}
+
+:any-link {
+	color: red;
+	font-weight: 900;
+	font-size: 250px;
+	text-decoration: none;
+}
+
+h2{
+	opacity: 0.75;
+}
+
+h3{
+	opacity: 0.5;
+}
+
+h4{
+	opacity: 0.25;
+}
+
