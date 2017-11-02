@@ -1,0 +1,23 @@
+body{
+	background-color: AliceBlue;
+	font-size: 15px;
+	color: black;
+	width:800px;
+	padding:50px;
+	margin: 0 auto;
+}
+
+div{
+	color:black;
+	padding:20px;
+	height:500px;
+}
+
+.fixed {
+	position:fixed;
+	background: navy;
+	height:200px;
+	width:350px;
+	left:50px;
+	top:200px;
+}
