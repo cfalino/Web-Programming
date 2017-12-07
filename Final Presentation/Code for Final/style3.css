@@ -1,0 +1,44 @@
+div {
+	font-size: 30px;
+	width: 800px;
+	padding: 50px;
+}
+
+body{
+	background-color: AliceBlue;
+	font-size: 15px;
+	color: black;
+	width:800px;
+	padding:50px;
+	/*center*/
+	margin: 0 auto;
+}
+
+
+section{
+	padding: 40px;
+	width:400px;
+	float:left;
+	margin:10px;
+	min-height: 600px;
+}
+
+#section1 {
+	background-color: #83B4F3;
+}
+
+#section2{
+	background-color: #B3D1F7;
+}
+
+#section3 {
+	background-color: #C9E9F7;
+}
+
+#section4{
+	background-color: #EAF7FC;
+}
+
+img{
+	position:float;
+}
