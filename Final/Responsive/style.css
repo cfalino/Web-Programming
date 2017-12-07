@@ -1,0 +1,18 @@
+*{
+      box-sizing: border-box;
+    }
+
+      html, body{
+        height: 100%;
+        width: 100%;
+      }
+      
+  body {
+    background-image: url("coffee.png");
+    background-repeat: repeat-x;
+  }
+
+  .title {
+    font-size: 50px;
+    font-weight: 1.5px;
+  }
