@@ -1,0 +1,20 @@
+div {
+	font-size: 30px;
+	width: 800px;
+	padding: 50px;
+}
+
+body{
+	background-color: AliceBlue;
+	font-size: 15px;
+	color: black;
+	width:800px;
+	padding:50px;
+	/*center*/
+	margin: 0 auto;
+}
+
+
+img{
+	position:float;
+}
